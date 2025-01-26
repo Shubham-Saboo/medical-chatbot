@@ -12,7 +12,8 @@ pip install langchain langchain_community langchain_huggingface faiss-cpu pypdf
 pip install huggingface_hub
 pip install streamlit
 ```
-
+## Asking questions related to medicine
 <img width="1464" alt="Screenshot 2025-01-26 at 13 43 45" src="https://github.com/user-attachments/assets/8fa8eda2-f17b-4a0a-af1a-b301bc7ba2e1" />
----
+
+##Asking some random question
 <img width="1464" alt="Screenshot 2025-01-26 at 14 00 38" src="https://github.com/user-attachments/assets/6f586b6b-66db-431b-8bb5-e91afc54c6ba" />
