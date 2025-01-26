@@ -1,4 +1,4 @@
-# README: RAG enabled Medical Chatbot
+# RAG enabled Medical Chatbot
 
 I built a smart Medical Chatbot that uses Retrieval Augmented Generation using open-source tools. We'll use Langchain for building RAG pipeline, HuggingFace for embeddings, Faiss CPU for vector storage, and Mistral with Streamlit for a conversational interface.
 
