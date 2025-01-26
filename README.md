@@ -13,3 +13,4 @@ pip install huggingface_hub
 pip install streamlit
 
 
+<img width="1464" alt="Screenshot 2025-01-26 at 13 43 45" src="https://github.com/user-attachments/assets/8fa8eda2-f17b-4a0a-af1a-b301bc7ba2e1" />
